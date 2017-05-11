@@ -1,0 +1,8 @@
+public class hanium3_gitTest{
+
+	public static void main(String[] args){
+
+		System.out.Println("Hello world");
+
+		}
+}
